@@ -4,7 +4,7 @@ A simple and stylish clone of the Magma homepage, built with vanilla HTML, CSS, 
 
 ## 🌐 Live Demo
 
-Coming soon — stay tuned!
+https://magma-cloning.netlify.app/
 
 ## 📂 Project Structure
 
